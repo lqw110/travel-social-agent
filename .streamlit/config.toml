@@ -1,0 +1,15 @@
+# Pins the theme so Streamlit's own widget chrome matches the journal palette
+# in src/ui/theme.py, and so the app looks the same regardless of the viewer's
+# OS light/dark preference.
+[theme]
+base = "light"
+primaryColor = "#2A2520"              # INK
+backgroundColor = "#FCF9F2"           # PAGE
+secondaryBackgroundColor = "#FFFFFF"  # SURFACE
+textColor = "#2A2520"                 # INK
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+runOnSave = true
