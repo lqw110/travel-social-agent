@@ -1,8 +1,22 @@
 # Travel Social Agent
 
-Turn a travel story and a folder of photos into a Facebook Page post — with you approving every step.
+Turn hundreds of travel photos and a few scattered memories into a social media post worth sharing.
 
-You write what happened. The agent reads your story, looks at each photo, picks the handful that actually match, drafts a caption, and shows you a preview. Nothing is published until you click the button.
+Even after an amazing trip, I often find myself putting off posting anything. Sharing a travel story means sorting through hundreds of photos, remembering what happened at each moment, choosing the images that best capture the experience, and writing a caption that matches the place, culture, and mood. By the time I think about doing all of that, the trip is over, everyday life has resumed, and the post never gets made.
+
+I do not want to overshare every detail of a vacation. But I still value sharing a few meaningful moments. A thoughtful travel post can help me connect with people who have similar interests, preserve memories that would otherwise fade, and give me something personal to revisit years later.
+
+That is why I created Travel Social Agent.
+
+You describe what happened and point the app to a folder of photos. The agent reads your story, reviews the images, selects the ones that best match the experience, drafts a platform-appropriate caption, and shows you a preview. You stay in control throughout the process, and nothing is published until you explicitly approve it.
+
+The current version publishes to a Facebook Page, but the same workflow could later be extended to platforms such as Instagram or RedNote, with captions and formatting adapted to each platform.
+
+Built as a learning project for agentic AI, the app explores tool calling, multimodal reasoning, workflow orchestration, and human-in-the-loop approval.
+
+Have fun, keep traveling, and make the memories easier to share.
+
+This is how the agent works: you write what happened. The agent reads your story, looks at each photo, picks the handful that actually match, drafts a caption, and shows you a preview. Nothing is published until you click the button.
 
 Built as a learning project for agentic AI: tool calling, multimodal reasoning, workflow orchestration, and human-in-the-loop approval.
 
